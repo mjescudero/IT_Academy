@@ -1,1 +1,3 @@
+
+hola, és una prova de l 'exercici 1
 Aquesta és una altra modificació del fitxer de text
